@@ -1,0 +1,21 @@
+{
+    "editor.fontSize": 18,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Shades of Purple",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "git.autofetch": true,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.editor.enablePreview": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "window.zoomLevel": 0
+}
